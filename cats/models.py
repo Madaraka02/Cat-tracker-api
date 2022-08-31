@@ -14,3 +14,14 @@ class Cat(models.Model):
 
     def __str__(self):
         return self.name
+
+
+        # TODO
+        # BFS GRAPH
+        # BFS TREE
+        # DFS GRAPH
+        # DFS TREE
+        # TWO SUM
+        # MERGESORT
+        # BUBBLE SORT
+        # BINARY SEARCH
